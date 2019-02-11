@@ -1,0 +1,45 @@
+
+<html> 
+<title>alptunga1.github.io</title> 
+<body>
+<h2>Alper Sanli</h2>
+<ul style="list-style-type:square">
+	<li>My website: <a style="text-decoration:none; color:blue;" href="http://www.alptungaa.com/" target="_blank">http://www.alptungaa.com/</a></li>
+</ul>
+<hr>
+<h3>Education</h3>
+<ul style="list-style-type:square">
+	<li>BS, Yildiz Technical University, Mechanical Engineering (2014 - Present)</li>
+</ul>
+<hr>	
+<h3>Work / Internship Experience</h3>
+<ul style="list-style-type:square">
+	<li>Turkish Aerospace Industries Inc. / Yildiz Technical University Teknopark, Istanbul / Turkey  (Present) </li>
+	<l>Website: <a style="text-decoration:none; color:blue;" href="https://www.tai.com.tr/en/" target="_blank">https://www.tai.com.tr/en/</a></l>
+	<li>Parxlab, Ankabeta Technology Inc. / Middle East Technical University Teknokent, Ankara / Turkey  (Present) </li>
+	<l>Website: <a style="text-decoration:none; color:blue;" href="http://parxlab.co/" target="_blank">http://parxlab.co/</a></l>
+	<li>Toyota Motor Manufacturing, Sakarya / Turkey </li>
+	<l>Factory Website: <a style="text-decoration:none; color:blue;" href="https://www.toyotatr.com/" target="_blank">https://www.toyotatr.com/</a></l>
+	<li>Tohoku University, Hashimoto-Kagami Laboratory, Sendai / Japan </li>
+	<l>Laboratory Website: <a style="text-decoration:none; color:blue;" href="http://www.ic.is.tohoku.ac.jp/en/" target="_blank">http://www.ic.is.tohoku.ac.jp/en/</a></l>
+	<li>Teknik Malzeme, Bursa / Turkey</li>
+	<l>Factory Website: <a style="text-decoration:none; color:blue;" href="http://www.teknikmalzeme.com.tr/en/" target="_blank">http://www.teknikmalzeme.com.tr/en/</a></l>
+</ul>
+<hr>	
+<h3>Project</h3>
+<ul style="list-style-type:square">
+        <li><a style="text-decoration:none; color:blue;" href="heat transfer thesis.pdf" target="_blank">Machine Design I</a></li>
+	<li><a style="text-decoration:none; color:blue;" href="INVESTIGATION OF FUEL CELL MODELS AND CREEP EXPERIMENTS.pdf" target="_blank">Machine Design II</a></li>
+	<li><a style="text-decoration:none; color:blue;" href="https://github.com/alptunga1" target="_blank">Please follow my GitHub account :)</a></li>
+</ul>	
+<hr>
+<h3>Contact</h3>
+<ul style="list-style-type:square">
+	<li>E-Mail: alpersanli16[at]gmail.com</li>
+	<li>E-Mail: alper.sanli[at]std.yildiz.edu.tr</li>
+	<li>GitHub: <a style="text-decoration:none; color:blue;" href="https://github.com/alptunga1" target="_blank">https://github.com/alptunga1</a></li>
+	<li>Twitter: <a style="text-decoration:none; color:blue;" href="https://twitter.com/alptungaaaaa" target="_blank">https://twitter.com/alptungaaaaa</a></li>
+</ul>
+<hr>	
+</body>
+</html>
